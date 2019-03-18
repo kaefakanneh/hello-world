@@ -40,7 +40,7 @@
   
    |Switch Name | Numerical  Representation|
    |:-------------|:------------------------:|
-   |Red Band| 4 |
+   |Red Bank| 4 |
    |Camden| 5 |
    |Pleasantville| 6 |
    
